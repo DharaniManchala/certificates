@@ -1,28 +1,57 @@
-# 📜 Certificates Portfolio
+# 📜 Certificates Portfolio – Dharani Manchala
 
-This repository contains the certificates of various courses and job simulations I have completed in the fields of web development, data science, Python, and machine learning. These demonstrate my commitment to continuous learning and practical skill development.
-
----
-
-## 🎓 Course Completion Certificates
-
-| Course Name                            | Platform         | Date Completed | Certificate |
-|----------------------------------------|------------------|----------------|-------------|
-| Python Basics                          | GeeksforGeeks    | July 2025      | [View](./Python_Basics_Certificate_GeeksforGeeks.pdf) |
-| Full Stack Web Development             | GeeksforGeeks    | July 2025      | [View](./Full_Stack_Web_Dev_GFG.pdf) |
+Welcome! This repository contains my verified certifications in **Full Stack Web Development**, **Python Programming**, and **Data Analytics**, showcasing my commitment to continuous learning and real-world application.
 
 ---
 
-## 💼 Job Simulation Certificates
+## 📂 Contents
 
-| Simulation Name                        | Organization     | Date Completed | Certificate |
-|----------------------------------------|------------------|----------------|-------------|
-| Software Engineering Virtual Experience | Deloitte (Forage) | July 2025     | [View](./Deloitte_Software_Engg_Forage.pdf) |
+- [🎓 Certifications](#-certifications)
+- [💼 Job Simulations](#-job-simulations)
+- [🧠 Skills](#-skills)
+- [📌 About](#-about)
+
+---
+
+## 🎓 Certifications
+
+| Certificate | Domain | Issued By | Link |
+|-------------|--------|-----------|------|
+| Full Stack Development | Web Development | GeeksforGeeks | [View Certificate](./FullStack_GFG.pdf) |
+| Python Programming | Programming | GeeksforGeeks | [View Certificate](./Python_Course_Completion_GeeksforGeeks.pdf) |
+
+---
+
+## 💼 Job Simulations
+
+| Program | Role | Platform | Link |
+|--------|------|----------|------|
+| Data Analytics Virtual Internship | Data Analyst | Forage & Deloitte | [View Certificate](./Forage_Deloitte_JobSimulation_DharaniManchala.pdf) |
+
+---
+
+## 🧠 Skills
+
+- **Languages**: Python, HTML, CSS, JavaScript
+- **Web Technologies**: Node.js, Express.js, MongoDB, React (Basic)
+- **Machine Learning**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Data Analytics Tools**: Excel, Python (EDA)
+- **Version Control**: Git & GitHub
 
 ---
 
 ## 📌 About
 
-All certificates uploaded here are part of my learning journey as a B.Tech CSE student at Rajiv Gandhi University of Knowledge and Technologies, aspiring to join top tech companies through projects, internships, and skill-building.
+This repository is a centralized place to verify my credentials. These certifications highlight my dedication to practical learning and industry exposure through hands-on simulations and structured coursework.
 
-Feel free to explore the certificates and reach out if you’d like to collaborate or know more about any project or course I’ve completed.
+---
+
+## 📬 Contact Me
+
+- GitHub: [DharaniManchala](https://github.com/DharaniManchala)
+
+- Email: dharanimanchala48@gmail.com
+
+---
+
+> _“Never stop learning, because life never stops teaching.”_
